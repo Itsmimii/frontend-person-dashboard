@@ -1,0 +1,35 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+}
+
+.navbar-brand i {
+  margin-right: 8px;
+}
+
+.card-stat {
+  border-radius: 15px;
+  transition: transform 0.2s;
+}
+
+.card-stat:hover {
+  transform: scale(1.05);
+}
+
+.table-hover tbody tr:hover {
+  background-color: #e0f7fa;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: 0.2s;
+}
+
+.modal-content {
+  border-radius: 15px;
+}
+
+.toast {
+  min-width: 250px;
+  margin-top: 10px;
+}
