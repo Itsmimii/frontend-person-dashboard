@@ -71,7 +71,3 @@ Merge branch 'main' of https://github.com/Itsmimii/frontend-person-dashboard
 
 
 
-
-
-## 5. Structure du projet frontend
-
